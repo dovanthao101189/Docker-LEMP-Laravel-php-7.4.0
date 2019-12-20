@@ -1,5 +1,5 @@
 # Docker-LEMP-Laravel-php-7.4.0
-clone the rep
+clone the repo
 
 `docker-compose build`
 
